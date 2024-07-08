@@ -1,0 +1,164 @@
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vscode/
+.idea/
+.vscode/
+.vscode-test/
+.ionide/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Folder config file
+.vs/
+.vscode/
+.idea/
+.vscode-test/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# C++/CLI project folder
+.ipch/
+*.ipdb
+*.pdb
+*.obj
+*.idb
+*.ilk
+
+# VS Code directories
+.vscode/
+.history/
+.tmp/
+node_modules/
+
+# Npm debug log files
+npm-debug.log*
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+.vs/
+.vscode/
+.idea/
+.vscode-test/
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Libraries
+*.lib
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Microsoft Azure Web App publish settings. 
+# NOTE: Comment the next line if you have any secrets in these settings files
+PublishProfiles/
+
+# DotNetSonarScanner
+.dotnet-sonarscanner/
+
+# Visual Studio Code Spaces
+.vscode/
+.vscode-server/
+
+# Rider
+.idea/
+.idea_modules/
+.idea_name.iml
+.idea.workspace.xml
+
+# Additional files for ASP.NET Core
+appsettings.json
+appsettings.Development.json
+appsettings.Production.json
+
+# Coverage Results
+coverage/
+*.coverage
+*.coveragexml
+
+# Entity Framework
+*.edmx
+
+# JetBrains
+_ReSharper*/
+*.ReSharper
+*.DotSettings.user
+*.sln.docstates
+
+# Coverage Results
+coverage/
+*.coverage
+*.coveragexml
+
+# Entity Framework
+*.edmx
+
+# Cake
+# Uncomment if you are using it
+# tools/**/*
+# !tools/packages.config
+
+# ASP.NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+.vs/
+.vscode/
+.idea/
+.vscode-test/
+
+# Rider
+.idea/
+.idea_modules/
+.idea_name.iml
+.idea.workspace.xml
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
